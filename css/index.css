@@ -15,14 +15,14 @@
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 40ox;
+    padding-left: 40px;
     padding-bottom: 80px;
     color: #ffffff;
     font-weight: bold;
     text-shadow: 1px 1px 10px #4b2c14;
 }
 .first-view-text h1{
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -30,7 +30,7 @@
     font-size: 18px;
     margin-top: 20px;
 }
-.head{
+.lead{
     max-width: 1200px;
     margin: 60px auto;
 }
@@ -79,12 +79,12 @@ img{
 .site-menu ul {
     display: flex;
 }
-.site menu ul li {
+.site-menu ul li {
     margin-left: 20px;
     margin-right: 20px;
 }
 .site-menu ul li a{
-  font-family: "Savate", sans-serif;
+  font-family: 'Savate', sans-serif;
 }
 @media(max-width: 800px){
     .site-menu ul{
@@ -136,12 +136,12 @@ img{
     flex-direction: column;
     align-items: center;
 }
-.fotter-logo{
+.footer-logo{
     display: block;
     width: 235px;
     margin-top: 90px;
 }
-.copy-right{
+.copyright{
     font-size: 14px;
     font-weight: bold;
     margin-top: 90px;
